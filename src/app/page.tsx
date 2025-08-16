@@ -83,7 +83,7 @@ export default function Home() {
       } else {
         throw new Error("Failed to send message");
       }
-    } catch (error) {
+    } catch {
       setSubmitStatus({
         type: "error",
         message:

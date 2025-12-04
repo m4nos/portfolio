@@ -304,11 +304,19 @@ export default function Home() {
                 type: "work",
               },
               {
-                year: "2025 - Present",
+                year: "2025 - 2025",
                 title: "Senior Frontend Engineer",
                 company: "Orderit AI",
                 description:
-                  "Leading frontend development initiatives and implementing cutting-edge AI-powered user interfaces.",
+                  "Implementing frontend development initiatives and cutting-edge AI-powered user interfaces.",
+                type: "work",
+              },
+              {
+                year: "2025 - Present",
+                title: "Senior Frontend Developer",
+                company: "HFM",
+                description:
+                  "Leading software development by implementing custom configuration and enforcing best practices.",
                 type: "work",
               },
               {
